@@ -21,7 +21,7 @@ Sponsoring WG:
 
 ## Actions to fulfill
 
-This area is used to track the [repo creation process](/mechanics/CREATING-A-SANDBOX-REPO.md).
+This area is used to track the [repo creation process](https://github.com/knative/community/blob/main/mechanics/CREATING-A-SANDBOX-REPO.md).
 The _requestor_ and _sponsoring WG lead_ should perform the steps listed below and cross out the checkmarks when done.
 The TOC is involved only in the **TOC Gate** steps.
 
@@ -36,7 +36,7 @@ _You may not be able to use the Projects quick menu on this page. In that case, 
 
 **TOC Gate**: _Once the TOC has approved the above, it will merge and Peribolos will create an empty repository._
 
-- [ ] (golang) Send a PR to add aliases for `knative.dev/$REPONAME` import paths ([sample](https://github.com/knative/website/pull/187)).
+- [ ] (golang) Send a PR to add aliases for `knative.dev/$REPONAME` import paths ([sample](https://github.com/knative/docs/pull/4160)).
 
 - [ ] Have a lead from the sponsoring WG bootstrap the Git repository by pushing an
   appropriate "template" repository ([basic](https://github.com/knative-sandbox/wg-repository),

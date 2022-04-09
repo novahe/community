@@ -17,6 +17,7 @@ evolve as the community and project change.
 - [Delegated authority](#delegated-authority)
 - [Committee Meetings](#committee-meetings)
 - [Committee Members](#committee-members)
+- [Emeritus Committee Members](#emeritus-committee-members)
 - [Decision process](#decision-process)
 - [Getting in touch](#getting-in-touch)
 - [Elections](#election-procedure)
@@ -90,13 +91,31 @@ employer.
 The current membership of the committee is currently (listed alphabetically by
 first name):
 
-| &nbsp;                                                         | Member           | Organization | Profile                                              | Term Start | Term End |
-| -------------------------------------------------------------- | ---------------- | ------------ | ---------------------------------------------------- | ---------- | --------
-| <img width="30px" src="https://github.com/thisisnotapril.png"> | April Kyle Nassi | Google       | [@thisisnotapril](https://github.com/thisisnotapril) | Bootstrap  | 2021     |
-| <img width="30px" src="https://github.com/bsnchan.png">        | Brenda Chan      | VMware       | [@bsnchan](https://github.com/bsnchan)               | Bootstrap  | 2021     |
-| <img width="30px" src="https://github.com/mbehrendt.png">      | Michael Behrendt | IBM          | [@mbehrendt](https://github.com/mbehrendt)           | Bootstrap  | 2021     |
-| <img width="30px" src="https://github.com/pmorie.png">         | Paul Morie       | Red Hat      | [@pmorie](https://github.com/pmorie)                 | 2020-12-11 | 2022     |
-| <img width="30px" src="https://github.com/vaikas.png">         | Ville Aikas      | VMware       | [@vaikas](https://github.com/vaikas)                 | 2020-12-11 | 2022     |
+| &nbsp;                                                         | Member                    | Organization | Profile                                              | Term Start | Term End |
+| -------------------------------------------------------------- | ------------------------- | ------------ | ---------------------------------------------------- | ---------- | --------
+| <img width="30px" src="https://github.com/thisisnotapril.png"> | April Kyle Nassi          | Google       | [@thisisnotapril](https://github.com/thisisnotapril) | Bootstrap  | 2021     |
+| <img width="30px" src="https://github.com/csantanapr.png">     | Carlos Santana            | IBM          | [@csantanapr](https://github.com/csantanapr)         | 2021-12-02 | 2023     |
+| <img width="30px" src="https://github.com/lance.png">          | Lance Ball                | Red Hat      | [@lance](https://github.com/lance)                   | 2021-12-02 | 2023     |
+| <img width="30px" src="https://github.com/itsmurugappan.png">  | Murugappan Chetty*         | Optum        | [@itsmurugappan](https://github.com/itsmurugappan)   | 2022-02-01 | 2023     |
+| <img width="30px" src="https://github.com/pmorie.png">         | Paul Morie                | Independent  | [@pmorie](https://github.com/pmorie)                 | 2020-12-11 | 2022     |
+| <img width="30px" src="https://github.com/vaikas.png">         | Ville Aikas               | Chainguard   | [@vaikas](https://github.com/vaikas)                 | 2020-12-11 | 2022     |
+> * Murugappan holds the End User seat
+## Emeritus Committee Members
+
+To recognize the folks that have served in the SC in the past, below we list the previous members of the SC (sorted by their 'Term End').
+
+| &nbsp;                                                         | Member              | Profile                                      | Term Start | Term End |
+| -------------------------------------------------------------- | ------------------- | -------------------------------------------- | ---------- | --------
+| <img width="30px" src="https://github.com/dewitt.png">         | Dewitt Clinton      | [@dewitt](https://github.com/dewitt)         | Bootstrap  | 2019     |
+| <img width="30px" src="https://github.com/mchmarny.png">       | Mark Charmny        | [@mchmarny](https://github.com/mchmarny)     | Bootstrap  | 2019     |
+| <img width="30px" src="https://github.com/jdumars.png">        | Jaice Singer DuMars | [@jdumars](https://github.com/jdumars)       | 2019       | 2020     |
+| <img width="30px" src="https://github.com/lindydonna.png">     | Donna Malayeri      | [@lindydonna](https://github.com/lindydonna) | 2019       | 2020     |
+| <img width="30px" src="https://github.com/rgregg.png">         | Ryan Gregg          | [@rgregg](https://github.com/rgregg)         | Bootstrap  | 2020     |
+| <img width="30px" src="https://github.com/isdal.png">          | Tomas Isdal         | [@isdal](https://github.com/isdal)           | Bootstrap  | 2020     |
+| <img width="30px" src="https://github.com/anicolao.png">       | Alex Nicolau        | [@anicolao](https://github.com/anicolao)     | 2020       | 2020     |
+| <img width="30px" src="https://github.com/ronavn.png">         | Ron Avnur           | [@ronavn](https://github.com/ronavn)         | 2020       | 2020     |
+| <img width="30px" src="https://github.com/bsnchan.png">        | Brenda Chan         | [@bsnchan](https://github.com/bsnchan)       | Bootstrap  | 2021     |
+| <img width="30px" src="https://github.com/mbehrendt.png">      | Michael Behrendt    | [@mbehrendt](https://github.com/mbehrendt)   | Bootstrap  | 2021     |
 
 ## Decision process
 
@@ -125,17 +144,14 @@ There are two ways to raise issues to the steering committee for decision:
 
 ## Composition
 
-The steering committee has 5 seats. These five seats are Contributing seats,
-open to any project contributor. In the future, the steering committe would like
-to add two End-User seats, open only to active end-user community members, once
-the selection criteria have been established. See
-[candidate eligibility](#candidate-eligibility) for definitions of these
-categories.
+The steering committee has 5 seats. Of these five seats, four (4) are
+Contributing seats, open to any project contributor, and one (1) seat is held
+by a KSC appointed end user seat. End user seat, is open to active end user
+community members whose company is listed in the [ADOPTERS](./ADOPTERS.MD) file.
 
-Steering Committee members serve for 2-year terms, staggered in order to
-preserve continuity. Every year either two or three contributor seats are
-elected. Once end-user mechanics are established, one end user seat would be
-elected on the same schedule.
+Steering Committee contributing members serve for 2-year terms, staggered in
+order to preserve continuity. End user member serves for 1-year term. Every year
+two contributor seats are elected.
 
 ## Election Procedure
 
@@ -207,25 +223,23 @@ To run for a Contributing seat, a candidate must additionally be at least a
 project Member as defined in
 [ROLES.md](https://github.com/knative/community/blob/main/ROLES.md).
 
-End-user seats are planned to enable employees of organizations which use but do
-not sell Knative-derived products. The mechanics of eligibility for end-user
-seats are still in progress; it is expected that end-user seats will add to the
-current Steering options to specific include end-user perspectives in the
-decision-making process.
+End user seat is eligible if their company is listed in the
+[ADOPTERS](./ADOPTERS.md) file.
 
 ### Voting Procedure
 
-Elections will be held using a time-limited
-[Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) ranking on
-[CIVS](http://civs.cs.cornell.edu/) using the Schulze method. The top
-vote-getters will be elected to the open seats, with the exceptions for company
-representation discussed below. This is the same process used for TOC elections.
+Elections will be held using [Elekto], an online voting tool created by CNCF
+intern Manish Sahani. The details for 2021 KSC elections can be found [here]
+(./elections/2021-SC/README.md).
+
+The End User seat is appointed by Steering Committee. The details for the 2021 end
+user candidacy can be found [here](./elections/2021-SC-EU/README.md)
 
 ### Limitations on Company Representation
 
 No more than two seats may be held by employees of the same organization (or
 conglomerate, in the case of companies owning each other). Additionally, each
-End-User seat (when available) must belong to an employee from a different
+end user seat (when available) must belong to an employee from a different
 organization. If the results of an election result in greater than two employees
 of the same organization, the lowest vote getters from any particular employer
 will be removed until representation on the committee is down to two.
@@ -253,19 +267,8 @@ election. Eligibility will not be redetermined at the time of the special
 election. Any replacement SC member will serve out the remainder of the term for
 the person they are replacing, regardless of the length of that remainder.
 
-## Transition
-
-In order to transition from the original, organization-appointed Steering
-Committee structure (the "bootstrap" committee), elections will be phased in
-over 14 months.
-
-In October 2020, two positions will be elected, including two Contributing
-seats and zero End-User seats (because end-user seat mechanics are still being
-worked out). One Google, one IBM/RedHat, and one VMware seat will be retained
-from the current Steering Committee.
-
-In October or November 2021, the three remaining "bootstrap SC" seats will be
-replaced by elected seats (three Contributing and hopefully one End-User seat).
+In the event of a resignation or other loss of an appointed end user KSC member,
+the SC will appoint a new person to fill the end user SC seat.
 
 ## Changes to the charter
 

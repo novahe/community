@@ -75,14 +75,11 @@ the trademark committee invites your feedback there. See
 
 ## Committee Members
 
-| Member                   | Organization | Profile                                |
-| ------------------------ | ------------ | -------------------------------------- |
-| Ron Avnur                | Google       | [@ronavn](https://github.com/ronavn)   |
-| Doug Davis               | IBM/RedHat   | [@duglin](https://github.com/duglin)   |
-| Brenda Chan              | VMware       | [@bsnchan](https://github.com/bsnchan) |
-
-Committee members for bootstrap term will be chosen during the Steering
-Committee election process.
+| Member                   | Organization | Profile                                              |
+| ------------------------ | ------------ | ---------------------------------------------------- |
+| Spencer Dillard          | Google       | [@spencerdillard](https://github.com/spencerdillard) |
+| Doug Davis               | IBM/RedHat   | [@duglin](https://github.com/duglin)                 |
+| Evan Anderson            | VMware       | [@evankanderson](https://github.com/evankanderson)   |
 
 ## Decision process
 

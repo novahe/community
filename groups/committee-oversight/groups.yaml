@@ -1,0 +1,18 @@
+# Technical Oversight Committee
+groups:
+  - email-id: toc@knative.team
+    name: toc
+    description: |-
+      Technical Oversight Committee Email
+    settings:
+      AllowExternalMembers: "false"
+      WhoCanPostMessage: "ANYONE_CAN_POST"
+      ReconcileMembers: "true"
+    owners:
+      - rhuss@knative.team
+      - rhuss@redhat.com
+      - evankanderson@knative.team
+      - evana@vmware.com
+      - evan.k.anderson@gmail.com
+      - dprotaso@gmail.com
+      - n3wscott@knative.team

@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"io/ioutil"
 	"log"
 	"os"
@@ -42,6 +43,9 @@ func main() {
 		if r >= 'a' && r <= 'z' {
 			return r
 		}
+		if r >= '0' && r <= '9' {
+			return r
+		}
 		return '-'
 	}
 	for _, team := range expandTeams(cfg.Orgs[org].Teams) {
@@ -54,8 +58,11 @@ func main() {
 		log.Printf("Could not serialize: ", err)
 		os.Exit(1)
 	}
-	preamble := []byte("# This file is auto-generated from peribolos\n\n")
-	output = append(preamble, output...)
+	preamble := fmt.Sprintf(`# This file is auto-generated from peribolos.
+# Do not modify this file, instead modify %s
+
+`, infile)
+	output = append([]byte(preamble), output...)
 	ioutil.WriteFile(outfile, output, 0644)
 	log.Print("Wrote ", outfile)
 }

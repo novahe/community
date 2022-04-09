@@ -1,0 +1,1 @@
+The content of this document moved to [README.md](https://github.com/knative/community/blob/main/elections/2021-SC-EU/README.md)

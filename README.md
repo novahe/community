@@ -33,7 +33,7 @@ Other Documents
   committee
 - [Technical Oversight Committee](./TECH-OVERSIGHT-COMMITTEE.md) - describes our
   technical oversight committee
-- [Trademark Committee]()./TRADEMARK-COMMITTEE.md) - describes our trademark committee
+- [Trademark Committee](./TRADEMARK-COMMITTEE.md) - describes our trademark committee
 - [Community Roles](./ROLES.md) - describes the roles individuals can assume
   within the Knative community
 - [Reviewing and Merging Pull Requests](./REVIEWING.md) - how we manage pull
@@ -74,13 +74,18 @@ if you follow it as you write your tutorial.
 
 ## Meetings and work groups
 
-Knative has public and recorded bi-weekly community meetings.
+Knative has public and recorded monthly community meetings. You can see the
+agenda and links to previous recordings
+[here](https://docs.google.com/document/d/1o0ENlHpv5nYPOznlbDc9xzNcwTqtxZrmPAVZLoWRHyE/edit#heading=h.yzvtyg3omrak).
 
 Each project has one or more
 [working groups](./working-groups/WORKING-GROUPS.md) driving the project, and
 Knative has a single
 [technical oversight committee](./TECH-OVERSIGHT-COMMITTEE.md) monitoring the
 overall project.
+
+There's also a [Knative Calendar](./CALENDAR.MD) that has all the Knative
+related meetings in one place.
 
 ## How can I help
 
